@@ -9,7 +9,7 @@ a calculator just input simple calculation and you will get resault.
 	Example: 1.2 + 3 - 4 = resault
 	
 	Notice: This only read number (Interger and decimal " 1.23 " ) and operator 
-(+, -, /, * ,x, X). this progra, can't read text, %, ^/power and " ( ) ". they will be 
+(+, -, /, * ,x, X). This program can't read text, %, ^/power and " ( ) ". they will be 
 added later on for now the program is focus on simple calculation.
 	
 	How it work: input simple calculation press enter and the program will return 
