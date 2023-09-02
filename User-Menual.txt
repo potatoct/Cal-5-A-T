@@ -1,0 +1,20 @@
+==========================================================
+C-Ren
+						ALG-0.exe
+
+==========================================================
+	Hello there this is a test program algorithm for my new GUI Program, it is 
+a calculator just input simple calculation and you will get resault.
+	
+	Example: 1.2 + 3 - 4 = resault
+	
+	Notice: This only read number (Interger and decimal " 1.23 " ) and operator 
+(+, -, /, * ,x, X). this progra, can't read text, %, ^/power and " ( ) ". they will be 
+added later on for now the program is focus on simple calculation.
+	
+	How it work: input simple calculation press enter and the program will return 
+the resault.
+
+	Notice: the calcultation is perform from left to right regardless of priority 
+operater (/, *, x, X), this function will be added later on.
+==========================================================
